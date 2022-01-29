@@ -15,7 +15,6 @@ Esse projeto é referente aos materiais deste [repositório](https://github.com/
 ### Algoritmos
 
 * Regressão Linear
-* Regressão Logística
 * K-Nearest-Neighbors (KNN)
 * Naive-Bayes
 * SVM
